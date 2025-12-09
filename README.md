@@ -1,0 +1,2 @@
+# Heart-Disease-Risk-Prediction-using-AutoML-and-Explainable-AI
+Developed a predictive analytics dashboard in Streamlit using AutoML to assess heart disease risk based on patient health attributes (age, gender, BMI, cholesterol, glucose, lifestyle factors).Integrated XAI techniques with SHAP to provide feature level interpretability and highlighted key contributing factors, improving model explainability 
